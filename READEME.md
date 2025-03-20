@@ -1,5 +1,5 @@
 # Blog
-## Record what I learned (start from Feb 23th, 2024), for individual database.
+## Record some I learned (start from Sep 1st, 2019), for individual database.
 **[Update]**
 
 - Add `ResearchReading/Embodied_Research_Insitutes.md`. **[20/03/2025]**
